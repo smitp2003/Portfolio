@@ -76,7 +76,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+ /* address: "767 Fifth Avenue, New York, NY 10153 ", */
   phoneNo: "(423) 223-6367 ",
   email: "smitp4474@gmail.com",
 };
